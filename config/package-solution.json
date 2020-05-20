@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ejercicio-share-point-client-side-solution",
+    "id": "a376ff2c-0692-4a7e-a40a-9b291e8aeff2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/ejercicio-share-point.sppkg"
+  }
+}
